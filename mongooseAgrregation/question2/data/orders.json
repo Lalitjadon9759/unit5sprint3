@@ -1,0 +1,9 @@
+[
+  { "_id": 1, "customerId": "C1001", "amount": 500, "product": "Laptop" },
+  { "_id": 2, "customerId": "C1002", "amount": 1200, "product": "Phone" },
+  { "_id": 3, "customerId": "C1001", "amount": 300, "product": "Headphones" },
+  { "_id": 4, "customerId": "C1003", "amount": 700, "product": "Monitor" },
+  { "_id": 5, "customerId": "C1004", "amount": 400, "product": "Keyboard" },
+  { "_id": 6, "customerId": "C1002", "amount": 800, "product": "Tablet" },
+  { "_id": 7, "customerId": "C1005", "amount": 900, "product": "Smartwatch" }
+]

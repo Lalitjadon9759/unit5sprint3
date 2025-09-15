@@ -1,0 +1,11 @@
+[
+  { "_id": "Loan1", "bookId": "Book1", "borrowerId": "User1", "loanDate": { "$date": "2023-05-01T00:00:00Z" }, "returnDate": { "$date": "2023-05-15T00:00:00Z" }, "status": "Returned" },
+  { "_id": "Loan2", "bookId": "Book2", "borrowerId": "User1", "loanDate": { "$date": "2023-05-20T00:00:00Z" }, "returnDate": null, "status": "Borrowed" },
+  { "_id": "Loan3", "bookId": "Book3", "borrowerId": "User2", "loanDate": { "$date": "2023-04-10T00:00:00Z" }, "returnDate": { "$date": "2023-04-25T00:00:00Z" }, "status": "Returned" },
+  { "_id": "Loan4", "bookId": "Book2", "borrowerId": "User3", "loanDate": { "$date": "2023-05-05T00:00:00Z" }, "returnDate": null, "status": "Borrowed" },
+  { "_id": "Loan5", "bookId": "Book4", "borrowerId": "User1", "loanDate": { "$date": "2023-03-01T00:00:00Z" }, "returnDate": { "$date": "2023-03-10T00:00:00Z" }, "status": "Returned" },
+  { "_id": "Loan6", "bookId": "Book1", "borrowerId": "User4", "loanDate": { "$date": "2023-05-01T00:00:00Z" }, "returnDate": { "$date": "2023-05-15T00:00:00Z" }, "status": "Returned" },
+  { "_id": "Loan7", "bookId": "Book5", "borrowerId": "User3", "loanDate": { "$date": "2023-06-01T00:00:00Z" }, "returnDate": null, "status": "Borrowed" },
+  { "_id": "Loan8", "bookId": "Book2", "borrowerId": "User1", "loanDate": { "$date": "2023-06-15T00:00:00Z" }, "returnDate": null, "status": "Borrowed" },
+  { "_id": "Loan9", "bookId": "Book2", "borrowerId": "User1", "loanDate": { "$date": "2023-07-01T00:00:00Z" }, "returnDate": null, "status": "Borrowed" }
+]

@@ -1,0 +1,6 @@
+[
+  { "_id": "User1", "name": "Alice", "email": "alice@example.com", "membershipDate": { "$date": "2023-01-15T00:00:00Z" } },
+  { "_id": "User2", "name": "Bob", "email": "bob@example.com", "membershipDate": { "$date": "2023-02-10T00:00:00Z" } },
+  { "_id": "User3", "name": "Charlie", "email": "charlie@example.com", "membershipDate": { "$date": "2023-03-05T00:00:00Z" } },
+  { "_id": "User4", "name": "David", "email": "david@example.com", "membershipDate": { "$date": "2023-04-12T00:00:00Z" } }
+]

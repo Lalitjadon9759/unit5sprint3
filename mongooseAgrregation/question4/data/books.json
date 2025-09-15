@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "Book1",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publishedYear": 1988
+  },
+  {
+    "_id": "Book2",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publishedYear": 2008
+  },
+  {
+    "_id": "Book3",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publishedYear": 1949
+  },
+  {
+    "_id": "Book4",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "publishedYear": 2018
+  },
+  {
+    "_id": "Book5",
+    "title": "The Pragmatic Programmer",
+    "author": "Andy Hunt",
+    "genre": "Programming",
+    "publishedYear": 1999
+  }
+]
